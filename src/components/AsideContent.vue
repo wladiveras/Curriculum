@@ -29,6 +29,11 @@ const props = defineProps({
             </li>
           </ul>
         </li>
+        <li class="wakatime">
+          <a href="https://wakatime.com/@f1d75254-7296-46c0-a3b1-66ba1e4f4042">
+            <img src="https://wakatime.com/badge/user/f1d75254-7296-46c0-a3b1-66ba1e4f4042.svg" alt="Total time coded since Oct 13 2021" />
+          </a>
+        </li>
         <li>
           <h1 class="side-header">
             {{ t('aside.technology') }}

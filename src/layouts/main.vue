@@ -3,7 +3,7 @@
     <router-view />
     <Footer />
     <div class="mt-5 mx-auto text-center opacity-25 text-sm">
-      [Home Layout]
+      [ 2021 ]
     </div>
   </main>
 </template>
@@ -92,5 +92,9 @@
 
 .zoom:hover {
   transform: scale(1.5);
+}
+
+.wakatime {
+  margin-top: 40px
 }
 </style>

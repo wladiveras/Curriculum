@@ -6,19 +6,20 @@ const data = {
   name: 'Wladi Veras',
   stack: '',
   contacts: {
-    email: {
-      icon: 'mdi-email',
-      label: 'hi@wladi.com.br',
-      value: 'mailto:hi@wladi.com.br',
-    },
     phone: {
       icon: 'mdi-phone',
       label: '+55 (21) 96909-8986',
       value: 'tel:+5521969098986',
     },
+    email: {
+      icon: 'mdi-email',
+      label: 'hi@wladi.com.br',
+      value: 'mailto:hi@wladi.com.br',
+    },
+
     github: {
       icon: 'carbon-logo-github',
-      label: '#wladiveras',
+      label: '@wladiveras',
       value: 'https://github.com/wladiveras',
     },
     youtube: {
@@ -26,6 +27,7 @@ const data = {
       label: '@WladiVeras',
       value: 'https://www.youtube.com/channel/UCGf8DWazIyaIQ32dKTCpRXg',
     },
+
   },
   skills: {
     Laravel: {
@@ -183,8 +185,15 @@ const projects = {
     title: 'Portfolio',
     type: 'Pessoal',
     description: 'Portfolio Open-Source feito em VueJS',
-    technology: ['linux', 'nodejs', 'react', 'REST API'],
+    technology: ['vue 3', 'nodejs', 'vite'],
     url: 'https://github.com/wladiveras/Curriculum',
+  },
+  smtp: {
+    title: 'Serviço SMTP',
+    type: 'Pessoal',
+    description: 'Servidor SMTP proprio com CubeCMS',
+    technology: ['linux', 'php', 'smtp'],
+    url: 'https://email.wladi.com.br',
   },
 }
 
