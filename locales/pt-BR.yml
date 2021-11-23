@@ -1,0 +1,43 @@
+about:
+  me: |-
+    <b class="color-default hello-world"> &lt;Hello, world! /> </b> <br />
+    Eu me chamo <i class="color-default">Wladi Veras</i>, sou <i class="color-default">Programador fullStack</i> do Rio de Janeiro !<br />
+    Meu caminho no mundo da programação até foi longo e doloroso, mas consegui !<br />
+    Minha principal stack hoje em dia é:<br />
+  me2: |-
+    E agora procuro não parar no que já conquistei, por isso busco sempre aprender algo novo para me desenvolver ainda mais na minha caminhada.<br />
+    No momento estou aprendendo:<br />
+    
+button:
+  back: Voltar
+  go: Ir
+  toggle_dark: Mudar tema
+  toggle_langs: Mudar idioma
+
+aside:
+  contacts: Contatos
+  technology:  Tecnologia e Habilidades
+
+project:
+  header: Projetos
+  title: Titulo
+  type: Tipo
+  description: Descrição
+  technologies: Tecnologias
+
+not-found: Não Encontrado
+
+date: 
+  now: Atual
+  jan: Janeiro
+  feb: Fevereiro
+  mar: Março
+  apr: Abril
+  may: Maio
+  jun: Junho
+  jul: Julho
+  aug: Agosto
+  sep: Setembro
+  oct: Outubro
+  nov: Novembro
+  dec: Dezembro
